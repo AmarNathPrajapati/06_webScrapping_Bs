@@ -1,0 +1,3681 @@
+[{
+  "_id": {
+    "$oid": "65eee65a99b6dcb903d5571f"
+  },
+  "public_identifier": "reidhoffman",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/reidhoffman/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240311%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240311T110917Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=09a50868e8f376496bdfe437f9e3c25491ac4d965bc937d6dc58bc7c687bb15d",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/reidhoffman/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240311%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240311T110917Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a552c7a8f7eb9afd762e5b1c060f199136adc9a933abf45cf21a17b37ccc227e",
+  "first_name": "Reid",
+  "last_name": "Hoffman",
+  "full_name": "Reid Hoffman",
+  "follower_count": 2615624,
+  "occupation": "Partner at Greylock",
+  "headline": "Entrepreneur.  Product and Business Strategist.  Investor.  Podcaster.  Author.",
+  "summary": "All aspects of consumer internet and software.  Focus is on product development, innovation, business strategy, and finance, but includes general management, operations, business operations, business development, talent management, and marketing.  Strong experience in both seed-stage companies (paypal, linkedin, facebook, zynga, last.fm, flickr) and growth companies (mozilla, linkedin, zynga, paypal.)\n\nSpecialties: General management, product development, business models, strategy, negotiation, financing, deal structure,  international, marketing, brand development, brand management, business development, public relations, press strategy, payments infrastructure, financial services, mergers and acquisitions, start-ups, business development, software development, operations centers, board management, investing.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "United States",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Aurora",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/auroradriver/",
+      "title": "Board Member",
+      "description": "Aurora delivers the benefits of self-driving technology quickly and safely around the world.",
+      "location": "Palo Alto, California, United States",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHQD9GxfHZWXQ/company-logo_400_400/0/1656522850610/auroradriver_logo?e=1717027200&v=beta&t=AKq9YHDPhXm-PlRO8EdAMBKtPpc_T4zgDvpLakDwEyY"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Blockstream",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blockstream/",
+      "title": "Board Member",
+      "description": "Blockstream was founded to develop new ways to accelerate innovation in crypto currencies, open assets and smart contracts.",
+      "location": "San Francisco Bay Area",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHGz47_KjdEow/company-logo_400_400/0/1630663496557/blockstream_logo?e=1717027200&v=beta&t=PjzOXT3fIAV5fT0ds7gsCcMBnYo8g_pZGAyzmvPn1pg"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Coda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/codainc/",
+      "title": "Board Member",
+      "description": "Docs are the new apps. Coda is on a mission to make documents the platform for applications. Coda reinvents shared, live-data in docs from the ground up. Coda docs erase the boundaries between words and data. And make it so everyone can work together, in their own way, off a single source of truth.",
+      "location": "Palo Alto, CA",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHYLKDSBpAF5g/company-logo_400_400/0/1630649515920/codainc_logo?e=1717027200&v=beta&t=RIjbmIOVvr5eJ9CzHl1yyWjH93FzYV_RB4Va2ifDoNI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Entrepreneur First",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-first/",
+      "title": "Board Member",
+      "description": "Turning exceptional individuals into exceptional founders.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFVNWbOq8zpjg/company-logo_400_400/0/1695139054297/entrepreneur_first_logo?e=1717027200&v=beta&t=VYbyqzLuYHpBFujIkItamuHYrKgNiDR7RL_hK__Pqdc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Greylock",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/greylock-partners/",
+      "title": "Partner",
+      "description": "Greylock partners with entrepreneurs to build market-transforming companies.  Notable Greylock portfolio includes companies like Linkedin, Airbnb, Facebook, Workday, Roblox, Palo Alto Networks, Dropbox, Pure Storage, Instagram and Discord.  I represent Greylock on the boards of Aurora, Coda, Entrepreneur First, Tome, and Nauto.  \n\nMy primary focus is world-class entrepreneurs with bold new ideas with the possibility of massive scale.  I also focus on companies in domains where my product and entrepreneurial experience applies strongly: consumer internet, enterprise 2.0, mobile, social gaming, online marketplaces, payments, SAAS, and social networks.  \n\nGetting a reference through someone I know is the best way to get attention from me as an investor, or any other capacity.",
+      "location": "Menlo Park, CA",
+      "logo_url": "https://media.licdn.com/dms/image/D560BAQHZfaCTQg-MEg/company-logo_400_400/0/1696309893203/greylock_partners_logo?e=1717027200&v=beta&t=Jksa0dbicaABLKqBjtl5xBIKNZU3cftZlskI6xE9wOo"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Inflection AI",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/inflectionai/",
+      "title": "Co-founder, Board Member",
+      "description": "Throughout the history of computing, humans have had to learn to speak the language of machines. In the new paradigm, machines will understand our language.\n\nRecent advances in artificial intelligence promise to fundamentally redefine human-machine interaction. We will soon have the ability to relay our thoughts and ideas to computers using the same natural, conversational language we use to communicate with people. Over time, these new language capabilities will revolutionize what it means to have a digital experience.",
+      "location": "Palo Alto, California, United States",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFr8rR19fo6iw/company-logo_400_400/0/1646755622740/inflectionai_logo?e=1717027200&v=beta&t=rXbPKeEjjuTVRXLagrf34C_hGQPBUpOcZE2_TKzi6_o"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Joby Aviation",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jobyaviation/",
+      "title": "Board Member",
+      "description": "Making our city's transportation grid 3-D: safe, climate healthier, and fast.",
+      "location": "Santa Cruz, California, United States",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQE85DQedMnnZg/company-logo_400_400-alternative/0/1630649314281/jobyaviation_logo?e=1717027200&v=beta&t=pirp5z8fyrfGqg4UdAw2HfJ9IyzBRHSO5aksRS9YlT8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Microsoft",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+      "title": "Board Member",
+      "description": "Microsoft's mission is to empower every person and every organization on the planet to achieve more.",
+      "location": "Seattle, Washington, United States",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1717027200&v=beta&t=vJuJMEVKU-coGSKALHREaso5aqPzdwsaFDuQRlqyE28"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "NAUTO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/nauto/",
+      "title": "Board Member",
+      "description": "Artificial intelligence cloud data platform to improve transportation safety, develop autonomy, and improve urban mobility.",
+      "location": "Palo Alto, CA",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQF9PtrUlpTKyQ/company-logo_400_400/0/1662156303886/nauto_logo?e=1717027200&v=beta&t=dZ-4CpOnbO-BCcaDVaGkdmwjSC6Y4MpqzNsWRS693v0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Village Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/villageglobal/",
+      "title": "Chairperson",
+      "description": "Village Global is a network-native VC firm backed by tech industry luminaries. When you join Village, seed capital is just the beginning. Village helps you go faster with an incredible founder community, expert advice, and game-changing introductions.",
+      "location": "Seattle, Washington, United States",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHNJ_K4_nQp2A/company-logo_400_400/0/1631342192322?e=1717027200&v=beta&t=JgZG2iF3C08hbnFndIDNVKChfrRzjlMa1RsogkqKOxM"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2020
+      },
+      "field_of_study": "Faculty of Information Technology and Electrical Engineering",
+      "degree_name": "Honorary Doctor",
+      "school": "University of Oulu",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHu0BWtQX586A/company-logo_400_400/0/1691396242467/university_of_oulu_logo?e=1717027200&v=beta&t=KyQhWDh9eOfI-EAQE1pvSvemm0_reE7RY58LhYRVC7Y",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "field_of_study": "Entrepreneurship/Entrepreneurial Studies",
+      "degree_name": "Honorary Doctor of Laws",
+      "school": "Babson College",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG9uoVqHj4dSg/company-logo_400_400/0/1630613547672/babson_college_logo?e=1717027200&v=beta&t=nSV1V883LLyacVZEpwj9iX5-rIy1ROCdRL5NB3fGo7Q",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 1993
+      },
+      "field_of_study": "Philosophy",
+      "degree_name": "M.St.",
+      "school": "University of Oxford",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGwPZs3spXFqw/company-logo_400_400/0/1630592784438/university_of_oxford_logo?e=1717027200&v=beta&t=sN3aglhl8dybYeptPzKtDmDxOIKJcbqbqGCQtbUSkzg",
+      "grade": null,
+      "activities_and_societies": "Wolfson College, Matthew Arnold Prize (Proxime Accessit)"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1990
+      },
+      "field_of_study": "Symbolic Systems",
+      "degree_name": "B.S.",
+      "school": "Stanford University",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1717027200&v=beta&t=MKoD1VVzYmpYpdULiz17bb-X421Q8_DaNrUYhOuo-ic",
+      "grade": null,
+      "activities_and_societies": "Marshall Scholar, Dinkelspiel Award, Golden Grant, Founder of the Symbolic Systems Forum"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1982
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1985
+      },
+      "field_of_study": "Highschool",
+      "degree_name": "Diploma",
+      "school": "The Putney School",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "X-country skiing, soccer, rebuilding Nova Scotia house"
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Masters of Scale",
+      "publisher": "Currency",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "description": null,
+      "url": "https://book.mastersofscale.com/"
+    },
+    {
+      "name": "Blitzscaling",
+      "publisher": "Currency",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "description": null,
+      "url": "https://www.blitzscaling.com/"
+    },
+    {
+      "name": "The Alliance",
+      "publisher": "Harvard Business Review Press",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "description": null,
+      "url": "http://www.theallianceframework.com/"
+    },
+    {
+      "name": "The Startup of You",
+      "publisher": "Crown",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "description": null,
+      "url": "http://www.startupofyou.com"
+    }
+  ],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Sigillum Magnum",
+      "issuer": "University of Bologna",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 2023
+      },
+      "description": "Sigillum Magnum is a silver-bronze medal realized in 1888. The medal is composed by some single medals of the Corporations which were forming the Bolognese Study.  The University of Bologna is the oldest Western university in the world, founded in 1088."
+    },
+    {
+      "title": "Member, Academy of Arts and Sciences",
+      "issuer": "Academy of Arts and Sciences",
+      "issued_on": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "description": "Founded during the American Revolution by John Adams, James Bowdoin, John Hancock, and other prominent contributors to the establishment of the new nation, the Academy has a rich intellectual history spanning more than 230 years.\n\nSince its founding in 1780, the Academy has provided a forum for scholars, members of the learned professions, and government and business leaders to work together on behalf of the democratic interests of the republic. As stated in the Academy’s Charter, the “end and design of the institution is...to cultivate every art and science which may tend to advance the interest, honor, dignity, and happiness of a free, independent, and virtuous people.”\n"
+    },
+    {
+      "title": "Marshall Medal",
+      "issuer": "UK Marshall Commission",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2017
+      },
+      "description": "Marshall Medals are awarded every ten years by the UK Marshall commission, \"to people of outstanding achievement whose contribution to British-American understanding, distinguished role in public life, or creative energy, reflect the legacy of George C Marshall.\""
+    },
+    {
+      "title": "CBE",
+      "issuer": "Her Majesty the Queen of the United Kingdom",
+      "issued_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "description": "Reid Hoffman has been appointed by Her Majesty Queen Elizabeth II an honorary Commander of the Most Excellent Order of the British Empire (CBE) in recognition of his services promoting UK business, social networking and the Marshall Scholarship scheme."
+    },
+    {
+      "title": "Global Benefactor",
+      "issuer": "Churchill Club",
+      "issued_on": {
+        "day": 1,
+        "month": 8,
+        "year": 2016
+      },
+      "description": "For irrepressible vision and positive impact on society \nSpirit of the award: \"Thanks for thinking big\""
+    },
+    {
+      "title": "Distinguished Citizen Award",
+      "issuer": "Commonwealth Club",
+      "issued_on": {
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "description": "The Commonwealth Club presents its Distinguished Citizen Award to individuals, recognizing their noteworthy contributions to local and global society.\n\nThis year’s theme is “Transformative Leadership” – honoring the individuals who have made a significant impact on our region by creating business and economic opportunities, or through their philanthropy and fundraising dedication have improved our fabric of social and cultural organizations."
+    },
+    {
+      "title": "David Packard Medal of Achievement Award",
+      "issuer": "TechAmerica",
+      "issued_on": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "description": "Recipients are selected for their contributions and advances within the high-tech industry, their community, and humankind.  This award is the highest award bestowed by TechAmerica."
+    },
+    {
+      "title": "Martin Luther King \"Salute to Greatness\"​",
+      "issuer": "Martin Luther King Jr. Center",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "description": "The Martin Luther King Jr. Center's \"Salute to Greatness\"​ award which \"recognizes individuals and corporations or organizations that exemplify excellence in leadership and a commitment to social responsibility in the spirit of Martin Luther King, Jr"
+    },
+    {
+      "title": "Visionary Award",
+      "issuer": "Silicon Valley Forum",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2010
+      },
+      "description": "The Silicon Valley Forum Visionary Awards honor industry leaders who have pioneered innovation and fostered the spirit of entrepreneurship, and whose unique vision continues to shape Silicon Valley. The Visionary Awards celebrate leadership in technology, education, venture capital, and entrepreneurship."
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Chair, Board of Directors",
+      "cause": "ECONOMIC_EMPOWERMENT",
+      "company": "Opportunity@Work",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/opportunity-work/",
+      "description": "Opportunity@Work is a nonprofit social enterprise dedicated to re-wiring the U.S. labor market through innovative technology and education financing. Opportunity@Work has launched TechHire.Careers, a new kind of recruiting platform built to help employers fill entry-level tech positions with talented individuals from diverse backgrounds. \n\nBy breaking down systemic barriers facing job seekers who come from nontraditional backgrounds, Opportunity@Work will enable millions of Americans to find good jobs and generate more than $20 billion in additional annual earnings for the U.S. labor market.",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF-JsPXvUPkhQ/company-logo_400_400/0/1630469218204/opportunity_work_logo?e=1717027200&v=beta&t=EhYCXITmnimrNKk20k7Cvy1L1GX-7E5MHykg78aEa1g"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "title": "Chair, Board of Directors",
+      "cause": null,
+      "company": "Research Bridge Partners",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/research-bridge-partners/",
+      "description": "The Research Bridge Partnership (RBP) is a nonprofit that seeks to address geographically unequal translational research opportunities on American university campuses. RBP uses proprietary data analysis tools to identify promising innovators at heartland universities, and supports the translation of their work into the real economy through partnerships with startups, corporations, investors, and philanthropy. ",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHbQfuv3GNcmw/company-logo_400_400/0/1630591137313/translationalresearch_institute_logo?e=1717027200&v=beta&t=agxtc9XcwRyaw7fTB82b0TDGGbB1nnepzm84aUfsugs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": null,
+      "title": "Board of Directors",
+      "cause": "ECONOMIC_EMPOWERMENT",
+      "company": "Endeavor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/endeavorglobal/",
+      "description": "Endeavor supports high impact entrepreneurs around the world.",
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG9Nglb0ZU1kQ/company-logo_400_400/0/1681235668619/endeavorglobal_logo?e=1717027200&v=beta&t=71SkrnBxXW3R5T50lE-JfP2a0E4atzKa-y6632RGllo"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "ends_at": null,
+      "title": "Board of Directors",
+      "cause": null,
+      "company": "New America",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/new-america-foundation/",
+      "description": "New America is a public policy think tank dedicated to renewing America by continuing the quest to realize our nation's highest ideals, honestly confronting the challenges caused by rapid technological and social change, and seizing the opportunities those changes create.",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGrZqqrQKOXnA/company-logo_400_400/0/1631306727807?e=1717027200&v=beta&t=9XBZU7FmOLac6p693PeE0lhtS6S8WNJAXMPbYffGIPQ"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Member, Board of Directors",
+      "cause": "HEALTH",
+      "company": "Chan Zuckerberg Biohub Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cz-biohub/",
+      "description": "The Chan Zuckerberg Biohub is an independent, non-profit medical research organization. Its vision is to develop and apply technologies that will enable doctors to cure, prevent or manage all diseases during our children’s lifetime.",
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHNgnyntBC00g/company-logo_400_400/0/1688563687859/cz_biohub_logo?e=1717027200&v=beta&t=AhWpPnNg6SxDu1lVR3KuUiVrrQFHMzjLHSHAibDINQg"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2006
+      },
+      "ends_at": null,
+      "title": "Board of Directors",
+      "cause": "ECONOMIC_EMPOWERMENT",
+      "company": "Kiva",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kiva-org/",
+      "description": "Kiva provides an entrepreneur's marketplace for social micro-lending. The entrepreneurs are pre-vetted by micro-finance organizations. They are then listed on Kiva's web marketplace, and interested and motivated lenders can lend money for the creation of businesses. It is a paradigm case of teaching to fish rather than giving fish.",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGBx_hbdh64uw/company-logo_400_400/0/1630541370889/kiva_org_logo?e=1717027200&v=beta&t=1ldy5_i139Zw-XjZNS4Fs9soj0Hm8MKeQL9OulaAwO0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "title": "Member Board Of Directors",
+      "cause": null,
+      "company": "Lever for Change",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/leverforchange/",
+      "description": "Building off the success of 100&Change, MacArthur’s breakthrough $100 million competition, Lever for Change helps philanthropists source vetted, high-impact philanthropic opportunities and connects those opportunities to significant amounts of philanthropic capital. Lever for Change does this through either managing customized competitions or by matching philanthropists with the top vetted proposals from such competitions in a searchable online database of solutions. Through a rigorous, open, and transparent approach, Lever for Change aims to inspire philanthropists to dramatically increase their giving by helping them source and identify the most promising ideas that will significantly impact the issues they care about most.",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEWPV7huO1qGA/company-logo_400_400/0/1643047651617/leverforchange_logo?e=1717027200&v=beta&t=XH8iP5d5edSWCO4ryGHNMaAEAsHRHXCEmz7KP-cc_sA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2017
+      },
+      "ends_at": null,
+      "title": "Member of the Board",
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": "Berggruen Institute",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/berggrueninst/",
+      "description": "The Berggruen Institute’s mission is to develop foundational ideas and, through them, shape political, economic and social institutions for the 21st century.",
+      "logo_url": "https://media.licdn.com/dms/image/D560BAQG9Uj4ehpYvjA/company-logo_400_400/0/1692315068677/berggrueninst_logo?e=1717027200&v=beta&t=qplVukPQwZvTROXNVZycffdlosa6LFZDRfNN7ehjMeo"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": null,
+      "title": "Chair, West Coast Advisory Board",
+      "cause": "EDUCATION",
+      "company": "QuestBridge",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/questbridge/",
+      "description": "QuestBridge is a revenue-generating non-profit which now places more talented low-income youth into 28 top colleges including Stanford, Princeton, Columbia, Amherst, MIT, Williams, and Yale. Approximately 1500 Quest students were accepted to our partner colleges in 2008 alone (146 at Stanford, for instance, and 11% of the entering class of Amherst).\n\nQuestBridge envisions a world where America's leadership encompasses thoughtful and broad-minded decision makers drawn from every economic segment of society. QuestBridge revolutionizes the way leading colleges and universities recruit talented low-income students, and the way these students approach their once-in-a-lifetime educations and futures.\n\nQuestBridge aims to create a singular place where exceptionally talented low-income students can navigate educational and life opportunities. QuestBridge recruits, develops, and supports motivated low-income students — beginning in high school through college to their first job — to be successful at America’s best colleges, graduate schools, and companies.",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGOrQ1RJZHDcA/company-logo_400_400/0/1631337701279?e=1717027200&v=beta&t=Sp-cKTR1u9ZzIdYp_r5e403NznSNWVy75f8xNfB3xUI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "title": "Visting Committee and Advisory Board",
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": "MIT Media Lab",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mit-media-lab/",
+      "description": "The MIT Media Lab is an interdisciplinary research lab that encourages the unconventional mixing and matching of seemingly disparate research areas.",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQEEH3CNoBAf9g/company-logo_400_400/0/1675453512122/mit_media_lab_logo?e=1717027200&v=beta&t=V5gXDO5TTS4DLUm6sv4SvQr7cLKlPYyWRUPUNEyNV8c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "title": "Member, Board of Directors",
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": "Mozilla",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mozilla-corporation/",
+      "description": "Evangelists and champions of the free and open web-platform, Firefox. Firefox allows consumers the experience they want, all software and internet companies to build extensions, and open-source developers to contribute freely and democratically. Firefox works to keep a free, open web — both through its own platform and by inspiring other browsers to create open apis and platforms with great consumer experiences.",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGHz8JwrMTQ0A/company-logo_400_400/0/1631301149956?e=1717027200&v=beta&t=lt9WcSbccFd1L1YMeKyTLQdyUe0XktzuPBxTA_XnOFw"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2007
+      },
+      "title": "Member, Board of Advisors",
+      "cause": null,
+      "company": "Center for Citizen Media",
+      "company_linkedin_profile_url": null,
+      "description": "The Center for Citizen Media is a new initiative aimed at helping to enable and encourage grassroots media, especially citizen journalism, at every level. The nonprofit Center is jointly affiliated with the University of California, Berkeley’s Graduate School of Journalism and the Berkman Center for Internet & Society at Harvard University Law School. In the new information age of the internet, media becomes much stronger through massive grassroots participation in discovery and reporting.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tomercohen",
+      "name": "Tomer Cohen",
+      "summary": "Chief Product Officer at LinkedIn",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/daymondjohn",
+      "name": "Daymond John",
+      "summary": "CEO of FUBU and The Shark Group, TV Personality on ABC Shark Tank, Public Speaker",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eries",
+      "name": "Eric Ries",
+      "summary": "Founder and Executive Chairman, LTSE",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisyeh",
+      "name": "Chris Yeh",
+      "summary": "Investor, Writer, Mentor, Entrepreneur",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/garrytan",
+      "name": "Garry Tan",
+      "summary": "President & CEO, Y Combinator",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sinofsky",
+      "name": "Steven Sinofsky",
+      "summary": "Experienced business and product development leader, investor, advisor, director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/officialtonyrobbins",
+      "name": "Tony Robbins",
+      "summary": "#1 New York Times best-selling author, life and business strategist, philanthropist, entrepreneur",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/whitneyjohnson",
+      "name": "Whitney Johnson",
+      "summary": "Learning is the oxygen of human growth. Learn along with me on the Disrupt Yourself podcast.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "name": "Mustafa Suleyman",
+      "summary": "CEO & Co-founder, Inflection",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephencurry30",
+      "name": "Stephen Curry",
+      "summary": "NBA Athlete | Producer, Investor, Entrepreneur, Philanthropist",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [
+    "Start-ups",
+    "Entrepreneurship",
+    "Strategy",
+    "Product Management",
+    "Venture Capital",
+    "Business Strategy",
+    "SaaS",
+    "Business Development",
+    "Social Media",
+    "Mobile Devices",
+    "Leadership",
+    "Viral Marketing",
+    "Product Development",
+    "Angel Investing",
+    "Product Innovation",
+    "Management",
+    "Consumer Internet",
+    "Product Marketing",
+    "Software Development",
+    "Investments"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+},
+{
+  "_id": {
+    "$oid": "65eee733030d69ac3840b482"
+  },
+  "public_identifier": "sandeep-kumar-32365624a",
+  "profile_pic_url": "https://media.licdn.com/dms/image/D5603AQFeLqRLD8_shw/profile-displayphoto-shrink_400_400/0/1706224647911?e=1715817600&v=beta&t=dY3n6LbqvZm40dgKc488mnw-wVuaZLkIK-5Han4LN6c",
+  "background_cover_image_url": null,
+  "first_name": "Sandeep",
+  "last_name": "Kumar",
+  "full_name": "Sandeep Kumar",
+  "follower_count": 298,
+  "occupation": "Python Developer at Fourbrick Technology",
+  "headline": "Full Stack Developer at Fourbricks technology pvt ltd",
+  "summary": "Learning Python with Django, MySQL, HTML, CSS, JAVASCRIPT,React Js",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Noida",
+  "state": "Uttar Pradesh",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Fourbrick Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fourbrick",
+      "title": "Python Developer",
+      "description": null,
+      "location": "Noida, Uttar Pradesh, India",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_400_400/0/1630576297311/jobstalk_logo?e=1718236800&v=beta&t=G8qTQlZG_2tOxW4KdTdFgsBJ_h5qQDnm_ddnAUKI4vc"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2024
+      },
+      "field_of_study": "Developer ",
+      "degree_name": "Master of Computer Applications - MCA",
+      "school": "J.C. Bose University of Science and Technology, YMCA",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/13337543/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHPJfmX5U89xw/company-logo_400_400/0/1630568406829/ymca_university_of_science_technology_faridabad_logo?e=1718236800&v=beta&t=QCBEpSJOoaTePNN_ckx6Ax2KfU0USKuCc2JYMUSJ_aI",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "field_of_study": "Computer Engineering",
+      "degree_name": "Master of Computer Applications - MCA",
+      "school": "J.C. Bose University of Science and Technology, YMCA",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/13337543/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHPJfmX5U89xw/company-logo_400_400/0/1630568406829/ymca_university_of_science_technology_faridabad_logo?e=1718236800&v=beta&t=QCBEpSJOoaTePNN_ckx6Ax2KfU0USKuCc2JYMUSJ_aI",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2026
+      },
+      "name": "'Basics of Python Programming for Absolute Beginners' Bootcamp ",
+      "license_number": "55766394874390",
+      "display_source": "certificates.openweaver.com",
+      "authority": "Open Weaver",
+      "url": "https://certificates.openweaver.com/en/verify/55766394874390"
+    }
+  ],
+  "connections": 285,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/D4D07AQF9vbHVTuPXeQ/group-logo_image-shrink_48x48/0/1662665030630?e=1710763200&v=beta&t=HNLVINcUOsJmNKoQ68_D2zJFriWli6LGg_cC0CRX-v4",
+      "name": "Python Web Developers",
+      "url": "https://www.linkedin.com/groups/101591"
+    },
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQE4wAcFOgjBfQ/group-logo_image-shrink_48x48/0/1631011092043?e=1710763200&v=beta&t=6rUjuXiNy_RzJ1PPVxiAo2-XVeQ7OOUhAKA_mWw6D4s",
+      "name": "Python Developers: Machine Learning, Artificial Intelligence, Data Engineering, & Programming",
+      "url": "https://www.linkedin.com/groups/6986570"
+    }
+  ],
+  "skills": [
+    "Computer Science",
+    "Agile Methodologies",
+    "Redux.js",
+    "MongoDB",
+    "JavaScript",
+    "MySQL",
+    "HTML",
+    "SQL",
+    "Python (Programming Language)",
+    "Programming",
+    "Web Development",
+    "Object-Oriented Programming (OOP)",
+    "Databases",
+    "Front-End Development",
+    "Object-Relational Mapping (ORM)",
+    "Database Management System (DBMS)",
+    "HTML5",
+    "Django",
+    "Back-End Web Development",
+    "Software Development",
+    "Engineering"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+},
+{
+  "_id": {
+    "$oid": "65eeedd578b561e61181c726"
+  },
+  "public_identifier": "amit-gadia",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "amit",
+  "last_name": "gadia",
+  "full_name": "amit gadia",
+  "follower_count": null,
+  "occupation": null,
+  "headline": null,
+  "summary": null,
+  "country": "IN",
+  "country_full_name": "india",
+  "city": null,
+  "state": "rajasthan",
+  "experiences": [],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "field_of_study": null,
+      "degree_name": "bachelors,bachelor of technology",
+      "school": "poornima university",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 7,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+},
+{
+  "_id": {
+    "$oid": "65efe0ff4abdc1fea9498263"
+  },
+  "public_identifier": "manisha-thakur-78b06922a",
+  "profile_pic_url": "https://media.licdn.com/dms/image/D4D03AQEagZKL5D5eZQ/profile-displayphoto-shrink_400_400/0/1690782535473?e=1715817600&v=beta&t=LPaBk1MySTtKW6JVymqLZ_6MoXmfB3lUiwqZxRr57NA",
+  "background_cover_image_url": null,
+  "first_name": "Manisha",
+  "last_name": "Thakur ",
+  "full_name": "Manisha Thakur ",
+  "follower_count": 705,
+  "occupation": "Business Development Manager at Fourbrick Technology",
+  "headline": "Business Development & Project Manager",
+  "summary": "Ready  to learn more and more new skills \nHardworking, dedicated and passionate\nConfident and well in communication and also a very good listener.",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Faridabad",
+  "state": "Haryana",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Fourbrick Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fourbrick",
+      "title": "Business Development Manager",
+      "description": null,
+      "location": "Noida, Uttar Pradesh, India · On-site",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_400_400/0/1630576297311/jobstalk_logo?e=1718236800&v=beta&t=G8qTQlZG_2tOxW4KdTdFgsBJ_h5qQDnm_ddnAUKI4vc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "Victorious Infotech Pvt. Ltd.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/victorious-infotech",
+      "title": "Project Manager",
+      "description": null,
+      "location": "India",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEDRRGq6A8wZg/company-logo_400_400/0/1657947366654/victorious_infotech_logo?e=1718236800&v=beta&t=Lhwr0zxcUtiiia8sKd5z-964bK_oKeR40jGZNt4Njzk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2023
+      },
+      "company": "Cevious Technologies Pvt Ltd",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cevious",
+      "title": "Project Coodinator ",
+      "description": null,
+      "location": "India · On-site",
+      "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFXDCJ5BFmkYw/company-logo_400_400/0/1665064368028/cevious_logo?e=1718236800&v=beta&t=IPk6zQrynNWLsGL7pH3yN2RqZpslTaNJBwNn3dNo_ho"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "LRICK SYSTEMS PVT LTD",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/74367905/",
+      "title": "Project Coordinator ",
+      "description": null,
+      "location": "India · On-site",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGz7Z7K1b6c0g/company-logo_400_400/0/1630655624994?e=1718236800&v=beta&t=AwWsBI3LgHOnsYtorUOZCGs2oxcxSXOqDmIJCHOOgSQ"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Computer and Information Sciences and Support Services",
+      "degree_name": "Bachelor's degree",
+      "school": "Maharshi Dayanand University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/15093700/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQE_mUUW5ZxHUQ/company-logo_400_400/0/1631359918359?e=1718236800&v=beta&t=mAVN2TR_RisAiNouCq594_cbRfyrQakBoQI09fYAz1I",
+      "grade": "6.9",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "title": "Bob",
+      "description": null,
+      "url": "http://Bankofbaroda"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "title": "Ncrb",
+      "description": null,
+      "url": "http://Nationalcrimerecordsbureau"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 679,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [
+    "Skill Development",
+    "Google Sheets",
+    "Key Performance Indicators",
+    "Conflict Resolution",
+    "Coordinate Meetings",
+    "Project Management",
+    "Technical Specs",
+    "Resource Allocation",
+    "Project Documentation",
+    "Organization Skills",
+    "Documentation",
+    "Delivery Of Projects",
+    "Coordination Skills",
+    "People Management",
+    "Microsoft PowerPoint",
+    "Technical Support",
+    "Information Technology",
+    "Communication",
+    "Presentations",
+    "Microsoft Excel",
+    "Problem Solving",
+    "Microsoft Office",
+    "Strategy",
+    "Auditing",
+    "Leadership",
+    "C++",
+    "C#",
+    "C (Programming Language)",
+    "Java",
+    "Cascading Style Sheets (CSS)",
+    ".NET Framework",
+    "Visual Basic .NET (VB.NET)"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+},
+{
+  "_id": {
+    "$oid": "65efe252c0d2eac6493089d0"
+  },
+  "public_identifier": "lalit-singh-negi-45138b244",
+  "profile_pic_url": "https://media.licdn.com/dms/image/C4D03AQGSIhf450PaNA/profile-displayphoto-shrink_400_400/0/1661866558656?e=1715817600&v=beta&t=zA1Z_R8iSuyxb7k9SAcvdfst6Eg6gYGUFBC3jNtZVz0",
+  "background_cover_image_url": null,
+  "first_name": "Lalit Singh",
+  "last_name": "Negi",
+  "full_name": "Lalit Singh Negi",
+  "follower_count": 107,
+  "occupation": "Full Stack Engineer at Fourbrick Technology",
+  "headline": "--",
+  "summary": null,
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Nainital",
+  "state": "Uttarakhand",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Fourbrick Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fourbrick",
+      "title": "Full Stack Engineer",
+      "description": null,
+      "location": "Noida sector 16 ",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_400_400/0/1630576297311/jobstalk_logo?e=1718236800&v=beta&t=G8qTQlZG_2tOxW4KdTdFgsBJ_h5qQDnm_ddnAUKI4vc"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2022
+      },
+      "field_of_study": "web development",
+      "degree_name": "diploma in Computer science & engineering",
+      "school": "UITPE karanpur ramangar nainital",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 107,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQEPMLa3Yi_Hjw/group-logo_image-shrink_48x48/0/1632116008126?e=1710828000&v=beta&t=dxjXn859VRn5g8GtKMawpyP9U4RFwUFtulQM6YanLeI",
+      "name": "User experience (UX) design, Product Design, Service Design | UXThisWeek ",
+      "url": "https://www.linkedin.com/groups/1875717"
+    },
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/C5607AQFu2nkTz2cq2w/group-logo_image-shrink_400x400/0/1631008185430?e=1710828000&v=beta&t=K4eRk0TlP77EeBgDfaGVS_bnYevvVYMBnCkjvgugcQk",
+      "name": "Full Stack Developer - Java technologies, UI & Microservices",
+      "url": "https://www.linkedin.com/groups/8491835"
+    }
+  ],
+  "skills": [
+    "Flask",
+    "Python (Programming Language)",
+    "Next.js",
+    " Typescript ",
+    "WebSocket",
+    "Google Cloud Platform (GCP)",
+    "Mqtt",
+    "ECMAScript",
+    "Debugging",
+    "Cross-browser Compatibility",
+    "AJAX",
+    "React Hooks",
+    "User Interface Design",
+    "SASS",
+    "Responsive Web Design",
+    "Problem Solving",
+    "HTML",
+    "Design Patterns",
+    "JavaScript Object Model (JSOM)",
+    "REST APIs",
+    "JSON Web Token (JWT)",
+    "JSON",
+    "Front-End Development",
+    "Document Object Model (DOM)",
+    "MERN Stack",
+    "Web Development",
+    "Socket.io",
+    "Redux.js",
+    "Cascading Style Sheets (CSS)",
+    "JavaScript",
+    "css3",
+    "HTML5",
+    "MongoDB",
+    "Express.js",
+    "Tailwind CSS",
+    "React.js",
+    "Node.js"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+},
+{
+  "_id": {
+    "$oid": "65f009541bf811e7abaf65c6"
+  },
+  "public_identifier": "shobhit-pal-b65147240",
+  "profile_pic_url": "https://media.licdn.com/dms/image/D5603AQHvLM9BML9LOQ/profile-displayphoto-shrink_400_400/0/1704118751567?e=1715817600&v=beta&t=8BRa6RdgWnyuV9tkN1ah6wYQydg2ZMTEgMoIRQNOmzQ",
+  "background_cover_image_url": null,
+  "first_name": "Shobhit",
+  "last_name": "Pal",
+  "full_name": "Shobhit Pal",
+  "follower_count": 524,
+  "occupation": "Software Engineer at Fourbrick Technology",
+  "headline": "Python Developer",
+  "summary": "My name is Shobhit Pal from Raebareli, Uttar Pradesh. I'm qualified B.Tech in 2021 .I have skill ' PYTHON' I can communicate with Hindi and English. I have strengths are Self motivates, open mind, Strong work ethic , Time management and Leadership.",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Noida",
+  "state": "Uttar Pradesh",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "All",
+      "company_linkedin_profile_url": null,
+      "title": "Software Engineer freshers",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Fourbrick Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fourbrick",
+      "title": "Software Engineer",
+      "description": null,
+      "location": "Noida, Uttar Pradesh, India · On-site",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_400_400/0/1630576297311/jobstalk_logo?e=1718236800&v=beta&t=G8qTQlZG_2tOxW4KdTdFgsBJ_h5qQDnm_ddnAUKI4vc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Fourbrick Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fourbrick",
+      "title": "Python Developer",
+      "description": null,
+      "location": "Noida, Uttar Pradesh, India · On-site",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_400_400/0/1630576297311/jobstalk_logo?e=1718236800&v=beta&t=G8qTQlZG_2tOxW4KdTdFgsBJ_h5qQDnm_ddnAUKI4vc"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": null,
+      "field_of_study": "Computer science and engineering ",
+      "degree_name": "Bachelor of Technology - BTech",
+      "school": "Dr. A.P.J. Abdul Kalam Technical University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/69456783/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFuXzJ7YvqaaA/company-logo_400_400/0/1694583596972?e=1718236800&v=beta&t=bKP06uN84rf7IJZ36FKv-bWYSpeM3EexAXRGC0Em51Y",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Hindi and English "
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Library",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Library",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 523,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHQyoqpbvwhLA/group-logo_image-shrink_48x48/0/1538129557777?e=1710835200&v=beta&t=cdj9BnQOujXgk4tlgy0pBiLgm-xgdSIBE7o3uLpohe8",
+      "name": "Machine Learning Community (Moderated)",
+      "url": "https://www.linkedin.com/groups/961087"
+    },
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/D4D07AQF9vbHVTuPXeQ/group-logo_image-shrink_48x48/0/1662665030630?e=1710835200&v=beta&t=5QZ2UiDIw-WjHa6xxrrInIUbXFwhpycXnFR8Ku2Lfsg",
+      "name": "Python Web Developers",
+      "url": "https://www.linkedin.com/groups/101591"
+    }
+  ],
+  "skills": [
+    "Apache NiFi",
+    "Pandas",
+    "Flask",
+    "Css",
+    "JavaScript",
+    "Bootstrap",
+    "HTML",
+    "Python Developer ",
+    "Django",
+    "Leadership",
+    "Python (Programming Language)"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+},
+{
+  "_id": {
+    "$oid": "65f04b5804bc0093eefbce09"
+  },
+  "industryName": "Information Technology & Services",
+  "lastName": "Singh",
+  "locationName": "India",
+  "student": false,
+  "$anti_abuse_metadata": {
+    "/lastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/phoneticFirstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/geoCountryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/entityUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/elt": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/firstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/summary": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/address": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/geoLocationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/industryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/geoLocationBackfilled": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/phoneticLastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/versionTag": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/maidenName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/student": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/headline": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/locationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/geoCountryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/industryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    },
+    "/showEducationOnProfileTopCard": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+      }
+    }
+  },
+  "geoCountryName": "India",
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "elt": true,
+  "industryUrn": "urn:li:fs_industry:96",
+  "firstName": "Ravina",
+  "entityUrn": "urn:li:fs_profile:ACoAAEWjdjYBTfeRbiIPyssv_qoXydcA79AyGD0",
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:104869687"
+  },
+  "geoLocationName": "Noida, Uttar Pradesh",
+  "location": {
+    "basicLocation": {
+      "countryCode": "in"
+    }
+  },
+  "headline": "HR Manager at Fourbrick Technology",
+  "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQGlN5EJmBnDcQ/profile-displayphoto-shrink_",
+  "img_100_100": "100_100/0/1692180346895?e=1715817600&v=beta&t=Q0_j-nI_rWn_g2LtBGTPnl52a4QMZcAspHHadC3qDaQ",
+  "img_200_200": "200_200/0/1692180346895?e=1715817600&v=beta&t=5w7EJG8nQWbhaynIf6-NUsQ6l9s1JjiIUwRwJW7sBs8",
+  "img_400_400": "400_400/0/1692180346895?e=1715817600&v=beta&t=esBIc_YIV29FKFY-A0wASoA5LLcJoM2WkvCKO2QVdNw",
+  "img_604_604": "800_800/0/1692180346895?e=1715817600&v=beta&t=i2zgvK6nRGjp2PyqjqLZu6HRXr8tvEr-M57Cf3mOC2w",
+  "profile_id": "ACoAAEWjdjYBTfeRbiIPyssv_qoXydcA79AyGD0",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAAEWjdjYBTfeRbiIPyssv_qoXydcA79AyGD0",
+  "member_urn": "urn:li:member:1168340534",
+  "public_id": "ravina-singh-bb2336287",
+  "experience": [
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAAEWjdjYBTfeRbiIPyssv_qoXydcA79AyGD0,2228088565)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        }
+      },
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Fourbrick Technology",
+      "timePeriod": {
+        "startDate": {
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "HR Manager",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:13583515",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_"
+    },
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAAEWjdjYBTfeRbiIPyssv_qoXydcA79AyGD0,2233190135)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        }
+      },
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Fourbrick Technology",
+      "timePeriod": {
+        "startDate": {
+          "month": 3,
+          "year": 2023
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Human Resources Executive",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:13583515",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAAEWjdjYBTfeRbiIPyssv_qoXydcA79AyGD0,910102210)",
+      "school": {
+        "objectUrn": "urn:li:school:3246042",
+        "entityUrn": "urn:li:fs_miniSchool:3246042",
+        "active": true,
+        "schoolName": "CCS (Chaudhary Charan Singh)University",
+        "trackingId": "glIlBT9QSIuzYy2EkT7BTg==",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQE8Muk3BIhxVw/company-logo_"
+      },
+      "$anti_abuse_metadata": {
+        "/schoolUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/degreeUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/fieldOfStudy": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/activities": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/grade": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/fieldOfStudyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/schoolName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/degreeName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:1168340534"
+          }
+        }
+      },
+      "degreeName": "Bachelor of Education - BEd",
+      "schoolName": "CCS (Chaudhary Charan Singh)University",
+      "degreeUrn": "urn:li:fs_degree:206",
+      "schoolUrn": "urn:li:fs_miniSchool:3246042"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [],
+  "volunteer": [],
+  "honors": [],
+  "projects": []
+},
+{
+  "_id": {
+    "$oid": "65f05320f23faa1d42096b4c"
+  },
+  "summary": "Having +2 year of experience as a Quality analyst.I am Expert in Manual Testing , API Testing using Postman Tool,  Performance testing  using j-Meter Tool. I have also knowledge about Selenium using python.",
+  "industryName": "Computer Software",
+  "lastName": "Singh",
+  "locationName": "India",
+  "student": false,
+  "$anti_abuse_metadata": {
+    "/lastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/phoneticFirstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/geoCountryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/entityUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/elt": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/firstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/summary": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/address": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/geoLocationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/industryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/geoLocationBackfilled": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/phoneticLastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/versionTag": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/maidenName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/student": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/headline": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/locationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/geoCountryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/industryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    },
+    "/showEducationOnProfileTopCard": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+      }
+    }
+  },
+  "geoCountryName": "India",
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "elt": false,
+  "industryUrn": "urn:li:fs_industry:4",
+  "firstName": "Amrita",
+  "entityUrn": "urn:li:fs_profile:ACoAADE2EO8BFzN22cj-T631xt1sAtgLT-EYxdc",
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:104869687"
+  },
+  "geoLocationName": "Noida, Uttar Pradesh",
+  "location": {
+    "basicLocation": {
+      "countryCode": "in"
+    }
+  },
+  "headline": "Quality Analyst at Fourbrick Technology Pvt.Ltd",
+  "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQFTbeRr3971bw/profile-displayphoto-shrink_",
+  "img_100_100": "100_100/0/1700407383726?e=1715817600&v=beta&t=feanesmPgSd9uGmBBlry79TyH29cYcCXJrtKROUT2pg",
+  "img_200_200": "200_200/0/1700407383726?e=1715817600&v=beta&t=d5yYdOBoeXvoCd7213m7qMBlU1clL4xD9HtrH_N8i7I",
+  "img_400_400": "400_400/0/1700407383726?e=1715817600&v=beta&t=gmvXkmjNVNQEB9Vg_vZCvsT4R3borFDRPmtXnpnzaN4",
+  "img_800_800": "800_800/0/1700407383727?e=1715817600&v=beta&t=kPVMfU4zEoluAIKA-gFeTC1HjXv10PCs6iVmHefGM-k",
+  "profile_id": "ACoAADE2EO8BFzN22cj-T631xt1sAtgLT-EYxdc",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAADE2EO8BFzN22cj-T631xt1sAtgLT-EYxdc",
+  "member_urn": "urn:li:member:825626863",
+  "public_id": "amrita-singh-3a76011b0",
+  "experience": [
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAADE2EO8BFzN22cj-T631xt1sAtgLT-EYxdc,2127375733)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        }
+      },
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Fourbrick Technology",
+      "timePeriod": {
+        "startDate": {
+          "month": 3,
+          "year": 2021
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Quality Analyst",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:13583515",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_"
+    },
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAADE2EO8BFzN22cj-T631xt1sAtgLT-EYxdc,2071874606)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        }
+      },
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Fourbrick Technology",
+      "timePeriod": {
+        "endDate": {
+          "month": 3,
+          "year": 2021
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2021
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Quality Analyst",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:13583515",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAADE2EO8BFzN22cj-T631xt1sAtgLT-EYxdc,661427664)",
+      "$anti_abuse_metadata": {
+        "/schoolUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/degreeUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/fieldOfStudy": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/activities": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/grade": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/fieldOfStudyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/schoolName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/degreeName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:825626863"
+          }
+        }
+      },
+      "grade": "A",
+      "timePeriod": {
+        "endDate": {
+          "year": 2016
+        },
+        "startDate": {
+          "year": 2012
+        }
+      },
+      "degreeName": "B.Tech in Computer science engineering",
+      "schoolName": "Swami Vivekananda University",
+      "fieldOfStudy": "Computer Science"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [],
+  "volunteer": [],
+  "honors": [],
+  "projects": []
+},
+{
+  "_id": {
+    "$oid": "65f053f43c2acbce4614444f"
+  },
+  "summary": "Hello! I'm Amar Nath Prajapati, a final year B.Tech student majoring in Computer Science & Engineering at the Indian Institute of Information Technology (IIIT), Sonepat. With a stellar CGPA of 9.5, I've honed my skills in a wide range of technologies and frameworks.\nAs a Full Stack Developer at Design Avenue, I successfully contributed to projects like the Oremus Corporate Pvt Ltd Website, General Engineering Company (GEC) Website, and Dr. Bhushan Dental Care Website. \n\n                        My expertise includes JavaScript, ReactJS, NodeJS, MongoDB, ExpressJS, REST API, Bootstrap, PHP, MySQL, SQL, Git/GitHub, HTML, and CSS, among others. Beyond my academic pursuits, I've delved into Machine Learning with Python, Numpy, Pandas, Matplotlib, and Scikit-learn. \n\n                        I've showcased my problem-solving abilities by solving over 250 coding questions on LeetCode and have an impressive portfolio with 60+ repositories in web development. I've earned certifications from the Government of India and garnered over 15 certificates in various technical skills from platforms like SoloLearn, Simplilearn, and CodeStudio. My passion for continuous learning is evident in my active participation in coding challenges, evident through my 700+ problem-solving achievements on CodeStudio. \n\n                         With a keen interest in contributing to innovative projects, I've developed a Machine Learning-based Real Estate House Price Predictor and implemented various functionalities for an E-Commerce website. Feel free to explore my GitHub, LinkedIn, LeetCode, and GeeksforGeeks profiles for a comprehensive view of my skills and accomplishments.",
+  "industryName": "Computer Software",
+  "lastName": "Prajapati",
+  "locationName": "India",
+  "student": false,
+  "$anti_abuse_metadata": {
+    "/lastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/phoneticFirstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/geoCountryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/entityUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/elt": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/firstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/summary": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/address": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/geoLocationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/industryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/geoLocationBackfilled": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/phoneticLastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/versionTag": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/maidenName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/student": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/headline": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/locationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/geoCountryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/industryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    },
+    "/showEducationOnProfileTopCard": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+      }
+    }
+  },
+  "geoCountryName": "India",
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "elt": true,
+  "industryUrn": "urn:li:fs_industry:4",
+  "firstName": "Amar Nath",
+  "entityUrn": "urn:li:fs_profile:ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU",
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:104869687"
+  },
+  "geoLocationName": "Noida, Uttar Pradesh",
+  "location": {
+    "basicLocation": {
+      "countryCode": "in"
+    }
+  },
+  "headline": "Software Engineer Trainee @Fourbrick || Ex-Full Stack Developer Intern @Design Avenue || MERN Stack Developer || Final Year Student at Indian Institute of Information Technology(IIIT), Sonepat",
+  "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQHzcoRXvcJGCQ/profile-displayphoto-shrink_",
+  "img_100_100": "100_100/0/1706670835921?e=1715817600&v=beta&t=S87RdSXuKn_iCrpXxLOPe3KV2LdKsEfIkxn9c5hjTNQ",
+  "img_200_200": "200_200/0/1706670835921?e=1715817600&v=beta&t=9QxRlD-TNbz9Q41F37L1ToNvb8KifVzFHcB2g39unt4",
+  "img_400_400": "400_400/0/1706670835921?e=1715817600&v=beta&t=nKqTvOBcxssI-36BIQI_HCgY2dQG3inraOXOKKYg-tQ",
+  "img_592_592": "800_800/0/1706670835921?e=1715817600&v=beta&t=WtRkQg-BC6cdXHUu6BQEpSWd58IA6OfW43QXRTdUKC0",
+  "profile_id": "ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU",
+  "member_urn": "urn:li:member:928979993",
+  "public_id": "amar-nath-prajapati-1b514421b",
+  "experience": [
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,2333336458)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        }
+      },
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Fourbrick Technology",
+      "timePeriod": {
+        "startDate": {
+          "month": 2,
+          "year": 2024
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Software Engineer Intern",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:13583515",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_"
+    },
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,1991265097)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        }
+      },
+      "companyName": "Design Avenue",
+      "timePeriod": {
+        "endDate": {
+          "month": 10,
+          "year": 2022
+        },
+        "startDate": {
+          "month": 6,
+          "year": 2022
+        }
+      },
+      "description": "During my internship at Design Avenue as a Full Stack Developer, I had the opportunity to work on diverse and challenging projects, enhancing my skills across the entire development spectrum. Here's a detailed overview of my internship experiences and the tech stacks I employed:\n\nTech Stacks:\n  Frontend: JavaScript, ReactJS, HTML, CSS, Bootstrap\n  Backend: NodeJS, ExpressJS, PHP, MySQL, MongoDB\n  Tools: Git/GitHub, AWS\n  Other: REST API, JSON\n\nProjects:\n\nOremus Corporate Pvt Ltd Website:\n    Developed web pages according to specific requirements.\n    Introduced animated and visually appealing elements to enhance user engagement.\n    Leveraged a tech stack comprising JavaScript, ReactJS, Bootstrap, and MongoDB.\n\nGeneral Engineering Company (GEC) Website:\n    Designed database schemas based on project requirements.\n    Implemented backend APIs and established connections with the database.\n    Utilized a comprehensive tech stack involving NodeJS, ExpressJS, PHP, MySQL, and Git/GitHub.\n\nDr Bhushan Dental Care Website:\n    Developed both static and dynamic web pages to meet project specifications.\n    Implemented backend APIs and ensured seamless connections with the database.\n    Employed a tech stack similar to the one used in the Oremus Corporate project.\n\nThese experiences allowed me to strengthen my proficiency in Full Stack development, providing hands-on experience with technologies such as JavaScript, ReactJS, NodeJS, MongoDB, and more. The emphasis on creating aesthetically pleasing and functional web pages enhanced my design skills, while database design and API development further enriched my backend capabilities. This internship not only deepened my technical expertise but also provided valuable insights into the collaborative and dynamic nature of real-world software development.",
+      "company": {
+        "employeeCountRange": {
+          "start": 2,
+          "end": 10
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Full Stack Developer Intern",
+      "companyUrn": "urn:li:fs_miniCompany:30255922",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHhJKvsG7-_SQ/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "courses": [
+        "urn:li:fs_course:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,408497315)",
+        "urn:li:fs_course:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,409295851)",
+        "urn:li:fs_course:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,409369792)",
+        "urn:li:fs_course:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,409451308)",
+        "urn:li:fs_course:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,409596737)"
+      ],
+      "entityUrn": "urn:li:fs_education:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,744133072)",
+      "school": {
+        "objectUrn": "urn:li:school:531112",
+        "entityUrn": "urn:li:fs_miniSchool:531112",
+        "active": true,
+        "schoolName": "Indian Institute of Information Technology(IIIT), Sonepat",
+        "trackingId": "LgewoRcoSuWm3goiZOmssA==",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQFYas24ZcFQAg/company-logo_"
+      },
+      "$anti_abuse_metadata": {
+        "/schoolUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/degreeUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/fieldOfStudy": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/activities": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/grade": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/fieldOfStudyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/schoolName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/degreeName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:928979993"
+          }
+        }
+      },
+      "grade": "9.5 (Current)",
+      "timePeriod": {
+        "endDate": {
+          "month": 6,
+          "year": 2024
+        },
+        "startDate": {
+          "month": 12,
+          "year": 2020
+        }
+      },
+      "degreeName": "B-Tech",
+      "schoolName": "Indian Institute of Information Technology(IIIT), Sonepat",
+      "fieldOfStudy": "Computer Sciences and Support Services",
+      "schoolUrn": "urn:li:fs_miniSchool:531112"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "publications": [],
+  "certifications": [
+    {
+      "authority": "Sololearn",
+      "name": "Programming in C Certification",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "1089-23645970",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "2u5uZHXlQ9qNa9X3nbmYcQ=="
+      },
+      "displaySource": "google.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://drive.google.com/file/d/11nwB-dSVWIamiQ1OChhbG6-XE7C3QEKf/view?usp=drivesdk"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "Programming in C++ Certification",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "23645970-1051",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "euBZZyGoRjmY2D09dpNGjg=="
+      },
+      "displaySource": "google.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://drive.google.com/file/d/13hJAn2OpyzSvuJSnakxALg3E08jfYdkc/view?usp=drivesdk"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "React.JS_Certification",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "1097-23645970",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "I5kjkRgbTQaq8zrmE/X3rQ=="
+      },
+      "displaySource": "google.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://drive.google.com/file/d/13xKHh_QgiIO8HSQ-uzI_2NPwZkfk8gx6/view?usp=drivesdk"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "JavaScript_Certificate",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "23645970-1024",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "uWA1X034T2ClRuNeI1TKZg=="
+      },
+      "displaySource": "sololearn.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://www.sololearn.com/certificates/course/en/23645970/1024/landscape/png"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "SQL_Certificate",
+      "timePeriod": {
+        "startDate": {
+          "month": 2,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "23645970-1060",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "JCZMXixxQ2W6N/ckgkbRAQ=="
+      },
+      "displaySource": "sololearn.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://www.sololearn.com/certificates/course/en/23645970/1060/landscape/png"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "HTML Application Development Certificate",
+      "timePeriod": {
+        "startDate": {
+          "month": 2,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "1014-23645970",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "JXRYSmHqSXC46cK4QCcuWA=="
+      },
+      "displaySource": "sololearn.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://www.sololearn.com/certificates/course/en/23645970/1014/landscape/png"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "CSS_Certificate",
+      "timePeriod": {
+        "startDate": {
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "1023-23645970",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "RMqIlf59Q+GrPzVG3dG30A=="
+      },
+      "displaySource": "sololearn.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://www.sololearn.com/certificates/course/en/23645970/1023/landscape/png"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "Game Development Certification",
+      "timePeriod": {
+        "startDate": {
+          "month": 4,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "1140-23645970",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "r87izxIKTumi9FxsZAAYPw=="
+      },
+      "displaySource": "sololearn.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://www.sololearn.com/certificates/course/en/23645970/1140/landscape/png"
+    },
+    {
+      "authority": "Sololearn",
+      "name": "Python Programming language",
+      "timePeriod": {
+        "startDate": {
+          "month": 5,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "23645970-1157",
+      "company": {
+        "objectUrn": "urn:li:company:9435690",
+        "entityUrn": "urn:li:fs_miniCompany:9435690",
+        "name": "Sololearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=XaZs5uMMyEr7aY8Q11U5HeC6sx9GdJVr7qLtHq8mPjw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=0KE7_GHrnzT-52W7aJhS81oWUTaVfoFJvyFbL2A7z6E",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1718236800&v=beta&t=WPV21MktdxlgXA-wTsAUzgVkn_2J1_qPjVHUgp3kbS0",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+          }
+        },
+        "universalName": "sololearn-inc-",
+        "dashCompanyUrn": "urn:li:fsd_company:9435690",
+        "trackingId": "DztVFrqcReqRnSHnuDVIMw=="
+      },
+      "displaySource": "sololearn.com",
+      "companyUrn": "urn:li:fs_miniCompany:9435690",
+      "url": "https://www.sololearn.com/certificates/course/en/23645970/1157/landscape/png"
+    },
+    {
+      "authority": "Simplilearn",
+      "name": "ReactJs_Certificate",
+      "timePeriod": {
+        "startDate": {
+          "month": 5,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "3458134",
+      "company": {
+        "objectUrn": "urn:li:company:533488",
+        "entityUrn": "urn:li:fs_miniCompany:533488",
+        "name": "Simplilearn",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1631319527790?e=1718236800&v=beta&t=MfiJVbWPeE4gC9IrQI3QNKuEbzZACCl2B0ZCoU8eURI",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1631319527790?e=1718236800&v=beta&t=h4P5qVjlvmH42sDjqxhAYQRzBJFv8yBrLUD_mWFKzkw",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1631319527790?e=1718236800&v=beta&t=A5GmdDqN24p67eZF01753UQ7XO344oh6trm3XaEKZIs",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C510BAQEvNU0EYy6wUw/company-logo_"
+          }
+        },
+        "universalName": "simplilearn",
+        "dashCompanyUrn": "urn:li:fsd_company:533488",
+        "trackingId": "ydZdypKDSdyivnCFX5U2gw=="
+      },
+      "displaySource": "google.com",
+      "companyUrn": "urn:li:fs_miniCompany:533488",
+      "url": "https://drive.google.com/file/d/1N8bwz-g4eYhypCbFypWzyHEE9UPNb17O/view"
+    }
+  ],
+  "volunteer": [],
+  "honors": [],
+  "projects": [
+    {
+      "members": [
+        {
+          "member": {
+            "firstName": "Amar Nath",
+            "lastName": "Prajapati",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU",
+            "occupation": "Software Engineer Trainee @Fourbrick || Ex-Full Stack Developer Intern @Design Avenue || MERN Stack Developer || Final Year Student at Indian Institute of Information Technology(IIIT), Sonepat",
+            "objectUrn": "urn:li:member:928979993",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 656,
+                    "fileIdentifyingUrlPathSegment": "200_800/0/1638044952082?e=1715817600&v=beta&t=ERcVVD8yIb8Wuwd4eZq9WQzLtmJqMXwo0BNpg5gSpRw",
+                    "expiresAt": {
+                      "$numberLong": "1715817600000"
+                    },
+                    "height": 164
+                  },
+                  {
+                    "width": 656,
+                    "fileIdentifyingUrlPathSegment": "350_1400/0/1638044952083?e=1715817600&v=beta&t=lqegsVEnime1ooX98l_X5fIFyJmzMjR9uPFQ6-ql2AU",
+                    "expiresAt": {
+                      "$numberLong": "1715817600000"
+                    },
+                    "height": 164
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHihJ5Lvd8KWg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "amar-nath-prajapati-1b514421b",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/0/1706670835921?e=1715817600&v=beta&t=S87RdSXuKn_iCrpXxLOPe3KV2LdKsEfIkxn9c5hjTNQ",
+                    "expiresAt": {
+                      "$numberLong": "1715817600000"
+                    },
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/0/1706670835921?e=1715817600&v=beta&t=9QxRlD-TNbz9Q41F37L1ToNvb8KifVzFHcB2g39unt4",
+                    "expiresAt": {
+                      "$numberLong": "1715817600000"
+                    },
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/0/1706670835921?e=1715817600&v=beta&t=nKqTvOBcxssI-36BIQI_HCgY2dQG3inraOXOKKYg-tQ",
+                    "expiresAt": {
+                      "$numberLong": "1715817600000"
+                    },
+                    "height": 400
+                  },
+                  {
+                    "width": 592,
+                    "fileIdentifyingUrlPathSegment": "800_800/0/1706670835921?e=1715817600&v=beta&t=WtRkQg-BC6cdXHUu6BQEpSWd58IA6OfW43QXRTdUKC0",
+                    "expiresAt": {
+                      "$numberLong": "1715817600000"
+                    },
+                    "height": 592
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/D5603AQHzcoRXvcJGCQ/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "o6y62gdxQf68+Gx6w2wHgQ=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU,406385200,414010954)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAADdfHBkBfQWa1-n5dBZlZJh7Qnj9WWW2IlU"
+        }
+      ],
+      "timePeriod": {
+        "endDate": {
+          "month": 5,
+          "year": 2023
+        },
+        "startDate": {
+          "month": 2,
+          "year": 2023
+        }
+      },
+      "description": "The \"Real Estate House Price Predictor\" stands as a testament to my multifaceted skills in frontend development, backend development, and machine learning. As a solo project, I undertook the challenge to create a comprehensive web application utilizing a diverse set of technologies. The project is designed to predict house prices based on various features, showcasing my proficiency in integrating machine learning into practical applications.\n\nKey Components and Technologies:\n\nFrontend Development:\n  - Utilized Flask for creating a dynamic and user-friendly web interface.\n  - Employed HTML, CSS, and JavaScript to design an intuitive and visually appealing user experience.\n  - Ensured seamless interaction with users through a well-crafted frontend that enhances usability.\n\nBackend Development:\n  - Implemented a robust backend using technologies such as Flask, MySQL, and Pandas.\n  - Designed and integrated APIs to handle data processing and retrieval.\n  - Established secure connections between the frontend and backend, ensuring data integrity and smooth functionality.\n\nMachine Learning Integration:\n  - Used Python libraries such as Numpy, Scikit-learn, and Pandas for developing and training the machine learning model.\n  - Created a predictive model capable of estimating house prices based on a set of predefined features.\n\nProject Significance:\n- The Real Estate House Price Predictor serves as a practical demonstration of my proficiency in both frontend and backend development, showcasing my ability to create seamless, end-to-end web applications.\n- The inclusion of machine learning adds a layer of complexity, highlighting my skills in integrating advanced technologies to solve real-world problems.\n\nThis project not only underlines my technical capabilities but also demonstrates my ability to conceptualize, design, and implement a comprehensive solution independently, making it a noteworthy addition to my portfolio.",
+      "title": "Real Estate Website with House Price Predictor"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f059e93bb00e1ff3386ba7"
+  },
+  "summary": "I'm graduate B.C.A. from PIIT College Greater Noida which C.C.S. University batch (2017-2020) and Done M.C.A. from RGGI Meerut UP which AKTU Lucknow Batch (2020-2022).\nI have done Python Full Stack course from DUCAT Noida Sec-16 in 2022.\nI have done 4 Months Internship Python Programming and Django (Framework) course from INCAPP Greater Noida in 2019.\nProgramming Skills:- C, Python, Django, MySQL.",
+  "industryName": "Information Technology & Services",
+  "lastName": "Gupta",
+  "locationName": "India",
+  "student": false,
+  "$anti_abuse_metadata": {
+    "/lastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/phoneticFirstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/geoCountryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/entityUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/elt": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/firstName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/summary": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/address": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/geoLocationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/industryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/geoLocationBackfilled": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/phoneticLastName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/versionTag": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/maidenName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/student": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/headline": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/locationName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/geoCountryName": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/industryUrn": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    },
+    "/showEducationOnProfileTopCard": {
+      "sourceUrns": {
+        "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+      }
+    }
+  },
+  "geoCountryName": "India",
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "elt": true,
+  "birthDate": {
+    "month": 11,
+    "day": 16
+  },
+  "industryUrn": "urn:li:fs_industry:96",
+  "firstName": "Vinay",
+  "entityUrn": "urn:li:fs_profile:ACoAACAmYyYBmYdKP9PxqoDuJAZs-REzCvcdBy0",
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:104869687"
+  },
+  "geoLocationName": "Noida, Uttar Pradesh",
+  "location": {
+    "basicLocation": {
+      "countryCode": "in"
+    }
+  },
+  "headline": "Python Developer at Fourbrick Technology Pvt. Ltd. | Flask | MongoDB | Django | MySQL",
+  "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQFi3LGCE72oNA/profile-displayphoto-shrink_",
+  "img_100_100": "100_100/0/1705376702412?e=1715817600&v=beta&t=Mhb-tksrMUTjDxKi9sXySUGdVYXJnyFhL8JVJQm5U2A",
+  "img_200_200": "200_200/0/1705376702412?e=1715817600&v=beta&t=_aQRejwkooFvnSzdCxaTHvbbmZTqK2o43CtJBsmnVU4",
+  "img_400_400": "400_400/0/1705376702412?e=1715817600&v=beta&t=f563ujVUNCO9aeFwNsxERzrJ_93zeYh-nbZhmwFCpc8",
+  "img_800_800": "800_800/0/1705376702412?e=1715817600&v=beta&t=AiyOXV_WB4pRaf8huDgc-J0a0HG33D-h7-IG1brlL38",
+  "profile_id": "ACoAACAmYyYBmYdKP9PxqoDuJAZs-REzCvcdBy0",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAACAmYyYBmYdKP9PxqoDuJAZs-REzCvcdBy0",
+  "member_urn": "urn:li:member:539386662",
+  "public_id": "vinaygupta3218",
+  "experience": [
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAACAmYyYBmYdKP9PxqoDuJAZs-REzCvcdBy0,2203385928)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        }
+      },
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Fourbrick Technology",
+      "timePeriod": {
+        "startDate": {
+          "month": 6,
+          "year": 2023
+        }
+      },
+      "description": "Develop and maintain Python-based web applications using frameworks such as Django and Flask.\n\nCollaborate with cross-functional teams to gather requirements and implement new features.\n\nWrite clean, efficient, and maintainable code following best practices and coding standards.\n\nConduct code reviews to ensure code quality, readability, and adherence to project requirements.\n\nDebug and resolve issues, troubleshoot performance bottlenecks, and optimize application performance.\n\nIntegrate third-party APIs and services for seamless data exchange and functionality.\n\nImplement automated testing and continuous integration to improve software quality and delivery speed.\n\nParticipate in Agile development processes, including daily stand-ups, sprint planning, and retrospectives.",
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Python Developer",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:13583515",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmWd-58QTZJw/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAACAmYyYBmYdKP9PxqoDuJAZs-REzCvcdBy0,750029652)",
+      "school": {
+        "objectUrn": "urn:li:school:531116",
+        "entityUrn": "urn:li:fs_miniSchool:531116",
+        "active": true,
+        "schoolName": "Dr. A.P.J. Abdul Kalam Technical University",
+        "trackingId": "snzRM3orRDKGkAKXiDotrQ==",
+        "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQFuXzJ7YvqaaA/company-logo_"
+      },
+      "$anti_abuse_metadata": {
+        "/schoolUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/degreeUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/fieldOfStudy": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/activities": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/grade": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/fieldOfStudyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/schoolName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/degreeName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        }
+      },
+      "grade": "1st",
+      "timePeriod": {
+        "endDate": {
+          "month": 9,
+          "year": 2022
+        },
+        "startDate": {
+          "month": 8,
+          "year": 2020
+        }
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+      "degreeName": "Master of Computer Applications - MCA",
+      "schoolName": "Dr. A.P.J. Abdul Kalam Technical University",
+      "fieldOfStudy": "Information Technology",
+      "degreeUrn": "urn:li:fs_degree:594",
+      "schoolUrn": "urn:li:fs_miniSchool:531116"
+    },
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAACAmYyYBmYdKP9PxqoDuJAZs-REzCvcdBy0,381236498)",
+      "school": {
+        "objectUrn": "urn:li:school:3246042",
+        "entityUrn": "urn:li:fs_miniSchool:3246042",
+        "active": true,
+        "schoolName": "CCS (Chaudhary Charan Singh)University",
+        "trackingId": "LXwSwCsgSg2CxsNA+LQb6Q==",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQE8Muk3BIhxVw/company-logo_"
+      },
+      "$anti_abuse_metadata": {
+        "/schoolUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/degreeUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/fieldOfStudy": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/activities": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/grade": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/fieldOfStudyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/schoolName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/degreeName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:539386662"
+          }
+        }
+      },
+      "grade": "1st",
+      "timePeriod": {
+        "endDate": {
+          "month": 7,
+          "year": 2020
+        },
+        "startDate": {
+          "month": 5,
+          "year": 2017
+        }
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+      "degreeName": "BCA (Bachelor of Computer Application)",
+      "schoolName": "CCS (Chaudhary Charan Singh)University",
+      "fieldOfStudy": "Information Technology",
+      "schoolUrn": "urn:li:fs_miniSchool:3246042"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [
+    {
+      "authority": "HackerRank",
+      "name": "Python Programming",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2023
+        }
+      },
+      "licenseNumber": "35D33E449A64",
+      "company": {
+        "objectUrn": "urn:li:company:435210",
+        "entityUrn": "urn:li:fs_miniCompany:435210",
+        "name": "HackerRank",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1705561459405/hackerrank_logo?e=1718236800&v=beta&t=ATGc98LxcfTHj2jBRCvRT-905StledizO3x_iYrk6Pg",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1705561459405/hackerrank_logo?e=1718236800&v=beta&t=HQo_IFYdtUACcR7PMngWB4tXWpd3iOmp6MmxUlLjyho",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1705561459405/hackerrank_logo?e=1718236800&v=beta&t=8VaSCoi97OOOlxKV5ua7hR9912D-tsrV1cNMVoODXI8",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/D560BAQE8MivsmbT7Ig/company-logo_"
+          }
+        },
+        "universalName": "hackerrank",
+        "dashCompanyUrn": "urn:li:fsd_company:435210",
+        "trackingId": "zP+8UznFQ0yTDnBkJQ2vOA=="
+      },
+      "displaySource": "hackerrank.com",
+      "companyUrn": "urn:li:fs_miniCompany:435210",
+      "url": "https://www.hackerrank.com/certificates/35d33e449a64"
+    },
+    {
+      "authority": "Ducat India",
+      "name": "Python Full Stack",
+      "timePeriod": {
+        "startDate": {
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "licenseNumber": "25243",
+      "company": {
+        "objectUrn": "urn:li:company:913075",
+        "entityUrn": "urn:li:fs_miniCompany:913075",
+        "name": "Ducat India",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1643895686951/ducateducation_logo?e=1718236800&v=beta&t=sbswnxHQ9XRYxNbw1rIN66y62aycztoQ3PirczXBczg",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1643895686951/ducateducation_logo?e=1718236800&v=beta&t=ec7VLPEkWFwpaBjM6pHQP8pCzDvBj7Bpg6RAJRFKg5U",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1643895686951/ducateducation_logo?e=1718236800&v=beta&t=yVk0fJHIOSq0EX9xQdfVEnXCjHo5m73fqtIsAuDUpY4",
+                "expiresAt": {
+                  "$numberLong": "1718236800000"
+                },
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGj0jGiUaxm-w/company-logo_"
+          }
+        },
+        "universalName": "ducateducation",
+        "dashCompanyUrn": "urn:li:fsd_company:913075",
+        "trackingId": "PMMie8grS62DVd0db4z1VQ=="
+      },
+      "companyUrn": "urn:li:fs_miniCompany:913075"
+    }
+  ],
+  "volunteer": [],
+  "honors": [],
+  "projects": []
+}]
