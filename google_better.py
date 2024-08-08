@@ -41,10 +41,17 @@
 
 
 import requests
+
+
 from pymongo import MongoClient
 client = MongoClient("mongodb+srv://amarnath:scrap3142@cluster0.ipuz3gi.mongodb.net/")
 db = client.googleSearch
 collection = db.googleSearchData
+
+
+
+
+
 from bs4 import BeautifulSoup
 from itertools import combinations
 
@@ -100,8 +107,8 @@ def generate_permutations_combinations(input_list):
 # input_list = ["Amar Nath", "Microsoft", "CEO"]
 # input_list = ["Satya Nadella", "Microsoft", "CEO"]
 # input_list = ["Amar Nath", "Google", "CEO"]
-# input_list = ["Sundar Pichai", "Google", "CEO"]
-input_list = ["Barack Obama", "United States", "President"]
+input_list = ["Sundar Pichai", "Google", "CEO"]
+# input_list = ["Barack Obama", "United States", "President"]
 
 combinations_list = generate_permutations_combinations(input_list)
 

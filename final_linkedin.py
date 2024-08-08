@@ -5,13 +5,14 @@ collection = db.linkedinProfile
 from linkedin_api import Linkedin
 
 def fetchLinkedInData(username):
-    # api = Linkedin('kumarfarzi08@gmail.com','3142farzi@Linkedin')
-    api = Linkedin('pobali2245@irnini.com','pobali2245@Linkedin')
+    api = Linkedin('kumarfarzi08@gmail.com','3142farzi@Linkedin')
+    # api = Linkedin('pobali2245@irnini.com','pobali2245@Linkedin')
     profile_data = api.get_profile(username)
     post_id = collection.insert_one(profile_data).inserted_id
     print("fasdfafasfaf",post_id)
 
 
+fetchLinkedInData("amar-nath-prajapati-1b514421b")
 # fetchLinkedInData("vinaygupta3218")
 # fetchLinkedInData("fourbrick")
 # fetchLinkedInData("microsoft")
